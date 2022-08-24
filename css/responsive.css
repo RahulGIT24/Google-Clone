@@ -1,0 +1,8 @@
+@media screen and (max-width:698px){
+    .search-bar{
+        width: 90%;
+    }
+    #search{
+        width: 70%;
+    }
+}
